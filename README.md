@@ -6,3 +6,11 @@ I'm Rohit Raj, currently persuing my Computer Science Undergraduation at NIT SIL
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web related projects
 - 💬 Ask me about Web development
+
+### Technical Skills:
+
+- C, C++
+- MongoDB, Express, React.js, Node.js
+- HTML, CSS, Sass, Bootstrap
+- JavaScript
+- Firebase
