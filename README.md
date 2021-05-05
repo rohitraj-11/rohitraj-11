@@ -14,6 +14,7 @@ I'm Rohit Raj, currently persuing my Computer Science Undergraduation at NIT SIL
 - HTML, CSS, Sass, Bootstrap
 - JavaScript
 - Firebase
+- MySQL
 
 ### Connect with me:
 
