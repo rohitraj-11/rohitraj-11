@@ -23,7 +23,7 @@ I'm Rohit Raj, currently persuing my Computer Science Undergraduation at NIT SIL
 [<img align="left" alt="Codeforces" width="22px" src="codeforces.svg" />][codeforces]
 [<img align="left" alt="Codechef" width="22px" src="codechef.svg" />][codechef]
 
-[linkedin]: www.linkedin.com/in/rohitraj-11
+[linkedin]: https://www.linkedin.com/in/rohitraj-11
 [twitter]: https://twitter.com/RohitRaj_11
 [codeforces]: https://codeforces.com/profile/raj.rohit
 [codechef]: https://www.codechef.com/users/rohit_raj_11
