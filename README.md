@@ -18,7 +18,7 @@ I'm Rohit Raj, currently persuing my Computer Science Undergraduation at NIT SIL
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619017852~hmac=e9751d58efa4542faad5f89ff270130d" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="Codeforces" width="22px" src="codeforces.svg" />][codeforces]
 [<img align="left" alt="Codechef" width="22px" src="codechef.svg" />][codechef]
