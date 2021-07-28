@@ -2,7 +2,7 @@
 
 I'm Rohit Raj, currently persuing my Computer Science Undergraduation at NIT SILCHAR. A passionate Competitive Programmer and Web Applications enthusiast with good problem solving skills and ability to learn quickly.
 
-- 🔭 I’m currently working on HealthCare App
+- 🔭 I’m currently working on Mathematical Information Retrieval
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web related projects
 - 💬 Ask me about Web development
